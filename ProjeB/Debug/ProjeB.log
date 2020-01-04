@@ -1,0 +1,6 @@
+﻿  ProjeB.cpp
+C:\Users\İbrahim\Desktop\ProjeB\ProjeB\rapidxml\rapidxml_utils.hpp(41,25): warning C4244: 'başlatılıyor': 'std::streamoff' - 'size_t' dönüşümü; veri kaybı olabilir
+C:\Users\İbrahim\Desktop\ProjeB\ProjeB\rapidxml\rapidxml_utils.hpp(28): message : sınıf şablon üye işlevi 'rapidxml::file<char>::file(const char *)' derlenirken
+C:\Users\İbrahim\Desktop\ProjeB\ProjeB\ProjeB.cpp(198): message : derlenen şablon işlevi 'rapidxml::file<char>::file(const char *)' örneği oluşturma başvurusuna bakın
+C:\Users\İbrahim\Desktop\ProjeB\ProjeB\ProjeB.cpp(198): message : derlenen sınıf şablon örneği oluşturma 'rapidxml::file<char>' başvurusuna bakın
+  ProjeB.vcxproj -> C:\Users\İbrahim\Desktop\ProjeB\Debug\ProjeB.exe
